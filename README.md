@@ -1,10 +1,14 @@
 # Curriculum Vitae Online
 
-Sejam todos bem vindos ao projeto de Curriculum Vitae Online oferecidos pela Digital Innovation One.
+Projeto de Curriculum Vitae Online.
 
-O projeto tem como objetivo montar um CV Online, utilizando conceitos de html e Github.
+O projeto tem como objetivo montar um CV Online, utilizando conceitos de html e Github e ser utilizado como currículo ‘vitae’ e portfolio pessoal.
 
-Ele também pode ser utilizado como currículo ‘vitae’ e portfolio pessoal.
+Foi utilizado javascript, html, css e bootstrap. 
+Para hospedagem foi utilizado o firebase: 
+
+Está hospedado em https://curriculum-wadson.web.app/
+
 
 
 
